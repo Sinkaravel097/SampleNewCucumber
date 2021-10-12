@@ -1,0 +1,1 @@
+src/test/resources/02amazon.feature:8
